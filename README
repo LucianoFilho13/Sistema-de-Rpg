@@ -1,0 +1,12 @@
+/*
+Obs 
+Classes: 
+  Não precisa criar uma var para criar uma classe, ex: "coinClass";
+  Tem que chamar a classe no "index.html";
+  Nome da classe no .js tem que ser igual no new, ex: "class CoinClass {...}, coinClass = new CoinClass()"
+  
+Text:
+text() tem que estar dentro da função draw()
+  
+  
+  */
